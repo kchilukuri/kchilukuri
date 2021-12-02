@@ -1,0 +1,278 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4267995600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleSearchStepDef.setupData(Scenario)"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "To test google search functionality",
+        "description": "",
+        "id": "google-search-feature;to-test-google-search-functionality;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 106259300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleSearchStepDef.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "output": [
+              "User is on Google home page",
+              "User is on bing page"
+            ],
+            "result": {
+              "duration": 698678900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on \"bing\" home page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"bing\"",
+                  "offset": 11
+                }
+              ],
+              "location": "GoogleSearchStepDef.user_is_on_home_page(String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 2516700,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "GoogleSearchStepDef.afterEachStep(Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "output": [
+              "User click search button"
+            ],
+            "result": {
+              "duration": 3754963300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User perform search with \"java\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"java\"",
+                  "offset": 25
+                }
+              ],
+              "location": "GoogleSearchStepDef.user_perform_search_with(String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 738400,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "GoogleSearchStepDef.afterEachStep(Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "output": [
+              "User is on google search results page"
+            ],
+            "result": {
+              "duration": 856757700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User see all the valid search results",
+            "match": {
+              "location": "GoogleSearchStepDef.user_see_all_the_valid_search_results()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 583400,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "GoogleSearchStepDef.afterEachStep(Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@test"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1573535600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleSearchStepDef.setupData(Scenario)"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "To test google search functionality",
+        "description": "",
+        "id": "google-search-feature;to-test-google-search-functionality;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 4165511400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleSearchStepDef.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "output": [
+              "User is on Google home page",
+              "User is on google page"
+            ],
+            "result": {
+              "duration": 2007352700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on \"google\" home page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"google\"",
+                  "offset": 11
+                }
+              ],
+              "location": "GoogleSearchStepDef.user_is_on_home_page(String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 489300,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "GoogleSearchStepDef.afterEachStep(Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "output": [
+              "User click search button"
+            ],
+            "result": {
+              "duration": 5268628500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User perform search with \"java\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"java\"",
+                  "offset": 25
+                }
+              ],
+              "location": "GoogleSearchStepDef.user_perform_search_with(String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 357200,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "GoogleSearchStepDef.afterEachStep(Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "output": [
+              "User is on google search results page"
+            ],
+            "result": {
+              "duration": 407539200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User see all the valid search results",
+            "match": {
+              "location": "GoogleSearchStepDef.user_see_all_the_valid_search_results()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 385600,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "GoogleSearchStepDef.afterEachStep(Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@test"
+          }
+        ]
+      }
+    ],
+    "name": "Google Search feature",
+    "description": "",
+    "id": "google-search-feature",
+    "keyword": "Feature",
+    "uri": "src/test/resources/features/Google Search.feature",
+    "tags": [
+      {
+        "name": "@test",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

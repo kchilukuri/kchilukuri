@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.virtusa.demo.runner.TestRunner" time="29.149" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="16"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\padhu\eclipse-workspace\demo\target\test-classes;C:\Users\padhu\eclipse-workspace\demo\target\classes;C:\Users\padhu\.m2\repository\io\cucumber\cucumber-java\4.2.0\cucumber-java-4.2.0.jar;C:\Users\padhu\.m2\repository\io\cucumber\cucumber-core\4.2.0\cucumber-core-4.2.0.jar;C:\Users\padhu\.m2\repository\io\cucumber\cucumber-html\0.2.7\cucumber-html-0.2.7.jar;C:\Users\padhu\.m2\repository\io\cucumber\gherkin\5.1.0\gherkin-5.1.0.jar;C:\Users\padhu\.m2\repository\io\cucumber\tag-expressions\1.1.1\tag-expressions-1.1.1.jar;C:\Users\padhu\.m2\repository\io\cucumber\cucumber-expressions\6.2.0\cucumber-expressions-6.2.0.jar;C:\Users\padhu\.m2\repository\io\cucumber\datatable\1.1.7\datatable-1.1.7.jar;C:\Users\padhu\.m2\repository\io\cucumber\datatable-dependencies\1.1.7\datatable-dependencies-1.1.7.jar;C:\Users\padhu\.m2\repository\io\cucumber\cucumber-junit\4.2.0\cucumber-junit-4.2.0.jar;C:\Users\padhu\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\padhu\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\padhu\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\padhu\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\padhu\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\padhu\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\padhu\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\padhu\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\padhu\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\padhu\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\padhu\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\padhu\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\padhu\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\padhu\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\padhu\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\padhu\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\padhu\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\padhu\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\padhu\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\padhu\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\padhu\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\padhu\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\padhu\.m2\repository\commons-io\commons-io\2.4\commons-io-2.4.jar;C:\Users\padhu\.m2\repository\com\aventstack\extentreports-cucumber4-adapter\1.0.7\extentreports-cucumber4-adapter-1.0.7.jar;C:\Users\padhu\.m2\repository\org\mongodb\mongodb-driver\3.3.0\mongodb-driver-3.3.0.jar;C:\Users\padhu\.m2\repository\org\mongodb\mongodb-driver-core\3.3.0\mongodb-driver-core-3.3.0.jar;C:\Users\padhu\.m2\repository\com\aventstack\extentreports\4.0.9\extentreports-4.0.9.jar;C:\Users\padhu\.m2\repository\org\mongodb\bson\3.3.0\bson-3.3.0.jar;C:\Users\padhu\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar;C:\Users\padhu\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar;C:\Users\padhu\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\padhu\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\padhu\.m2\repository\org\apache\httpcomponents\httpmime\4.5.2\httpmime-4.5.2.jar;C:\Users\padhu\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar;C:\Users\padhu\.m2\repository\org\freemarker\freemarker\2.3.28\freemarker-2.3.28.jar;C:\Users\padhu\.m2\repository\org\mongodb\mongo-java-driver\3.10.2\mongo-java-driver-3.10.2.jar;C:\Users\padhu\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.1\log4j-api-2.13.1.jar;C:\Users\padhu\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.1\log4j-core-2.13.1.jar;C:\Users\padhu\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\padhu\.m2\repository\info\cukes\cucumber-picocontainer\1.2.5\cucumber-picocontainer-1.2.5.jar;C:\Users\padhu\.m2\repository\info\cukes\cucumber-java\1.2.5\cucumber-java-1.2.5.jar;C:\Users\padhu\.m2\repository\info\cukes\cucumber-core\1.2.5\cucumber-core-1.2.5.jar;C:\Users\padhu\.m2\repository\info\cukes\cucumber-html\0.2.3\cucumber-html-0.2.3.jar;C:\Users\padhu\.m2\repository\info\cukes\cucumber-jvm-deps\1.0.5\cucumber-jvm-deps-1.0.5.jar;C:\Users\padhu\.m2\repository\info\cukes\gherkin\2.12.2\gherkin-2.12.2.jar;C:\Users\padhu\.m2\repository\org\picocontainer\picocontainer\2.15\picocontainer-2.15.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="America/Chicago"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="16"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-16.0.1\bin"/>
+    <property name="sun.java.command" value="C:\Users\padhu\AppData\Local\Temp\surefire1755239545941700170\surefirebooter2397538795683488752.jar C:\Users\padhu\AppData\Local\Temp\surefire1755239545941700170 2021-06-11T10-59-30_879-jvmRun1 surefire10257140514056143630tmp surefire_0526257290507047013tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\padhu\eclipse-workspace\demo\target\test-classes;C:\Users\padhu\eclipse-workspace\demo\target\classes;C:\Users\padhu\.m2\repository\io\cucumber\cucumber-java\4.2.0\cucumber-java-4.2.0.jar;C:\Users\padhu\.m2\repository\io\cucumber\cucumber-core\4.2.0\cucumber-core-4.2.0.jar;C:\Users\padhu\.m2\repository\io\cucumber\cucumber-html\0.2.7\cucumber-html-0.2.7.jar;C:\Users\padhu\.m2\repository\io\cucumber\gherkin\5.1.0\gherkin-5.1.0.jar;C:\Users\padhu\.m2\repository\io\cucumber\tag-expressions\1.1.1\tag-expressions-1.1.1.jar;C:\Users\padhu\.m2\repository\io\cucumber\cucumber-expressions\6.2.0\cucumber-expressions-6.2.0.jar;C:\Users\padhu\.m2\repository\io\cucumber\datatable\1.1.7\datatable-1.1.7.jar;C:\Users\padhu\.m2\repository\io\cucumber\datatable-dependencies\1.1.7\datatable-dependencies-1.1.7.jar;C:\Users\padhu\.m2\repository\io\cucumber\cucumber-junit\4.2.0\cucumber-junit-4.2.0.jar;C:\Users\padhu\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\padhu\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\padhu\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\padhu\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\padhu\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\padhu\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\padhu\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\padhu\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\padhu\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\padhu\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\padhu\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\padhu\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\padhu\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\padhu\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\padhu\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\padhu\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\padhu\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\padhu\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\padhu\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\padhu\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\padhu\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\padhu\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\padhu\.m2\repository\commons-io\commons-io\2.4\commons-io-2.4.jar;C:\Users\padhu\.m2\repository\com\aventstack\extentreports-cucumber4-adapter\1.0.7\extentreports-cucumber4-adapter-1.0.7.jar;C:\Users\padhu\.m2\repository\org\mongodb\mongodb-driver\3.3.0\mongodb-driver-3.3.0.jar;C:\Users\padhu\.m2\repository\org\mongodb\mongodb-driver-core\3.3.0\mongodb-driver-core-3.3.0.jar;C:\Users\padhu\.m2\repository\com\aventstack\extentreports\4.0.9\extentreports-4.0.9.jar;C:\Users\padhu\.m2\repository\org\mongodb\bson\3.3.0\bson-3.3.0.jar;C:\Users\padhu\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar;C:\Users\padhu\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar;C:\Users\padhu\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\padhu\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\padhu\.m2\repository\org\apache\httpcomponents\httpmime\4.5.2\httpmime-4.5.2.jar;C:\Users\padhu\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar;C:\Users\padhu\.m2\repository\org\freemarker\freemarker\2.3.28\freemarker-2.3.28.jar;C:\Users\padhu\.m2\repository\org\mongodb\mongo-java-driver\3.10.2\mongo-java-driver-3.10.2.jar;C:\Users\padhu\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.1\log4j-api-2.13.1.jar;C:\Users\padhu\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.1\log4j-core-2.13.1.jar;C:\Users\padhu\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\padhu\.m2\repository\info\cukes\cucumber-picocontainer\1.2.5\cucumber-picocontainer-1.2.5.jar;C:\Users\padhu\.m2\repository\info\cukes\cucumber-java\1.2.5\cucumber-java-1.2.5.jar;C:\Users\padhu\.m2\repository\info\cukes\cucumber-core\1.2.5\cucumber-core-1.2.5.jar;C:\Users\padhu\.m2\repository\info\cukes\cucumber-html\0.2.3\cucumber-html-0.2.3.jar;C:\Users\padhu\.m2\repository\info\cukes\cucumber-jvm-deps\1.0.5\cucumber-jvm-deps-1.0.5.jar;C:\Users\padhu\.m2\repository\info\cukes\gherkin\2.12.2\gherkin-2.12.2.jar;C:\Users\padhu\.m2\repository\org\picocontainer\picocontainer\2.15\picocontainer-2.15.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\padhu"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-04-20"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-16.0.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\padhu\eclipse-workspace\demo"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\padhu\AppData\Local\Temp\surefire1755239545941700170\surefirebooter2397538795683488752.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="16.0.1+9-24"/>
+    <property name="user.name" value="padhu"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\padhu\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\padhu\AppData\Local\Temp\"/>
+    <property name="java.version" value="16.0.1"/>
+    <property name="user.dir" value="C:\Users\padhu\eclipse-workspace\demo"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-16.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk-16.0.1/bin/server;C:/Program Files/Java/jdk-16.0.1/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-16.0.1\bin;C:\Users\padhu\Downloads\apache-maven-3.8.1-bin\apache-maven-3.8.1\bin;C:\Users\padhu\Downloads\chromedriver_win32\chromedriver;C:\Users\padhu\Downloads\geckodriver-v0.29.1-win32\geckodriver;C:\Users\padhu\AppData\Local\Microsoft\WindowsApps;;C:\WINDOWS\system32;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="16.0.1+9-24"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="60.0"/>
+  </properties>
+  <testcase name="To test google search functionality" classname="Google Search feature" time="16">
+    <system-out><![CDATA[10:59:38.019 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+10:59:40.592 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+10:59:44.796 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+10:59:44.864 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+10:59:44.890 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+10:59:45.182 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+10:59:45.184 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+10:59:45.185 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+10:59:49.341 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 22358
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1623427177.758][WARNING]: This version of ChromeDriver has not been tested with Chrome version 91.
+Jun 11, 2021 10:59:37 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="To test google search functionality" classname="Google Search feature" time="11.78">
+    <system-out><![CDATA[10:59:51.421 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+10:59:53.267 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+10:59:56.449 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+10:59:56.498 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+10:59:56.516 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+10:59:56.893 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+10:59:56.894 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+10:59:56.895 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+11:00:01.067 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 48409
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1623427191.393][WARNING]: This version of ChromeDriver has not been tested with Chrome version 91.
+Jun 11, 2021 10:59:51 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+</testsuite>

@@ -1,0 +1,848 @@
+10:24:14.012 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+10:24:23.892 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+10:30:01.082 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+10:30:07.634 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+10:30:12.048 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+10:30:12.116 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+10:30:12.140 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+10:30:12.550 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+10:30:12.552 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+10:30:12.552 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+10:30:12.784 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+10:30:15.549 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+10:30:17.522 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+10:30:22.416 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+10:30:22.461 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+10:30:22.484 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+10:30:22.748 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+10:30:22.749 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+10:30:22.749 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+10:30:26.921 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+10:52:17.474 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+10:52:23.949 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+10:52:31.801 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+10:52:31.877 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+10:52:31.902 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+10:52:32.171 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+10:52:32.173 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+10:52:32.174 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+10:52:36.367 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+10:52:37.637 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+10:52:39.970 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+10:52:42.520 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+10:52:42.597 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+10:52:42.625 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+10:52:42.943 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+10:52:42.944 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+10:52:42.945 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+10:52:47.097 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+10:56:27.712 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+10:56:31.527 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+10:56:37.349 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+10:56:37.416 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+10:56:37.440 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+10:56:37.769 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+10:56:37.771 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+10:56:37.771 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+10:56:41.910 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+10:56:44.821 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+10:56:46.845 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+10:56:52.096 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+10:56:52.166 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+10:56:52.185 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+10:56:52.428 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+10:56:52.429 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+10:56:52.430 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+10:56:56.588 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+10:59:38.019 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+10:59:40.592 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+10:59:44.796 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+10:59:44.864 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+10:59:44.890 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+10:59:45.182 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+10:59:45.184 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+10:59:45.185 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+10:59:49.341 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+10:59:51.421 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+10:59:53.267 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+10:59:56.449 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+10:59:56.498 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+10:59:56.516 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+10:59:56.893 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+10:59:56.894 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+10:59:56.895 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+11:00:01.067 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+11:08:35.697 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+11:08:37.746 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+11:08:42.010 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+11:08:42.087 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+11:08:42.115 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+11:08:42.407 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+11:08:42.409 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+11:08:42.410 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+11:08:46.619 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+11:08:47.760 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+11:08:50.082 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+11:08:53.758 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+11:08:53.798 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+11:08:53.820 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+11:08:54.067 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+11:08:54.068 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+11:08:54.068 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+11:08:58.202 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+11:11:18.247 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+11:11:20.435 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+11:11:23.871 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+11:11:23.871 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+11:11:24.020 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+11:11:28.190 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+11:11:29.445 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+11:11:31.684 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+11:11:33.448 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+11:11:33.448 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+11:11:33.638 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+11:11:33.842 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+11:12:08.854 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+11:12:10.947 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+11:12:13.814 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+11:12:13.884 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+11:12:13.914 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+11:12:14.206 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+11:12:14.208 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+11:12:14.208 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+11:12:18.348 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+11:12:19.510 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+11:12:21.273 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+11:12:24.447 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+11:12:24.500 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+11:12:24.519 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+11:12:24.757 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+11:12:24.759 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+11:12:24.760 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+11:12:28.939 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+11:30:23.231 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+11:30:28.428 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+11:30:32.728 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+11:30:39.461 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+11:30:45.011 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+11:30:45.125 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+11:30:45.166 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+11:30:45.258 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+11:30:45.617 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+11:30:45.620 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+11:30:45.620 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+11:30:45.691 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+11:30:45.815 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+11:30:46.095 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+11:30:46.097 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+11:30:46.098 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+11:30:50.870 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+11:30:52.649 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+11:30:57.990 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+11:31:00.182 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+11:31:00.374 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+11:31:03.826 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+11:31:03.944 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+11:31:03.974 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+11:31:04.567 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+11:31:04.569 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+11:31:04.570 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+11:31:12.793 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+11:31:12.966 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+11:31:19.957 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+11:31:20.003 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+11:31:20.025 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+11:31:20.257 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+11:31:20.258 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+11:31:20.259 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+11:31:32.770 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+11:31:41.204 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+11:31:43.650 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+11:31:47.360 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+11:31:47.425 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+11:31:47.450 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+11:31:47.750 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+11:31:47.752 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+11:31:47.752 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+11:31:52.207 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+11:31:53.442 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+11:31:57.513 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+11:32:00.646 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+11:32:00.704 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+11:32:00.722 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+11:32:00.985 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+11:32:00.986 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+11:32:00.986 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+11:32:06.906 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+11:32:27.322 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+11:32:30.058 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+11:32:33.294 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+11:32:33.367 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+11:32:33.401 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+11:32:33.667 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+11:32:33.669 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+11:32:33.669 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+11:32:38.033 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+11:32:39.848 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+11:32:46.642 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+11:32:50.572 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+11:32:50.625 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+11:32:50.643 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+11:32:50.904 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+11:32:50.905 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+11:32:50.905 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+11:32:57.462 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+13:37:21.316 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+13:37:23.915 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+13:37:31.321 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+13:37:31.463 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+13:37:31.813 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+13:37:32.089 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+13:37:32.091 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+13:37:32.091 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+13:37:36.281 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+13:37:38.008 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+13:37:41.062 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+13:37:45.188 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+13:37:45.244 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+13:37:45.270 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+13:37:45.512 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+13:37:45.513 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+13:37:45.514 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+13:37:49.662 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+13:55:53.326 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+13:55:55.479 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+13:55:59.793 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+13:55:59.862 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+13:55:59.893 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+13:56:00.160 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+13:56:00.162 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+13:56:00.162 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+13:56:04.402 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+13:56:05.894 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+13:56:07.982 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+13:56:11.365 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+13:56:11.416 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+13:56:11.437 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+13:56:11.678 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+13:56:11.680 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+13:56:11.680 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+13:56:15.855 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+14:31:28.770 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+14:31:30.563 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+14:31:35.007 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+14:31:35.093 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+14:31:35.126 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+14:31:35.447 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+14:31:35.449 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+14:31:35.450 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+14:31:39.616 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+14:31:41.640 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+14:31:43.686 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on home page
+14:31:47.887 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+14:31:47.942 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+14:31:47.964 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+14:31:48.226 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+14:31:48.228 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+14:31:48.228 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+14:31:52.412 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+14:38:43.553 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+14:38:43.767 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+14:38:43.769 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+14:38:43.974 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+14:38:44.293 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+14:39:40.969 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+14:39:47.029 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+14:39:47.121 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+14:39:47.157 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate first search result
+14:39:47.500 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+14:39:47.502 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+14:39:47.502 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+14:39:51.688 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+14:40:13.244 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+14:40:15.524 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+14:40:15.524 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+14:40:17.450 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+14:40:18.051 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+15:04:07.334 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+15:04:20.263 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+15:04:20.264 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+15:04:20.969 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+15:04:25.131 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+15:05:27.403 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+15:05:30.855 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+15:05:31.088 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+15:05:31.088 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+15:05:31.340 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+17:42:44.301 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+17:42:56.638 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+17:42:56.639 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+17:42:56.807 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+17:43:00.961 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+17:52:52.015 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+17:52:56.086 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+17:52:56.086 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+17:52:56.235 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+17:52:56.858 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+17:53:52.756 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+17:53:54.750 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+17:53:54.750 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+17:53:56.245 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+17:53:56.891 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+17:57:31.876 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+17:57:32.975 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+17:57:32.975 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+17:57:34.711 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+17:57:39.043 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+17:58:45.853 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+17:58:49.804 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+17:58:49.805 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+17:58:50.617 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+17:58:54.751 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+18:01:13.575 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+18:01:15.133 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+18:01:15.134 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+18:01:16.238 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+18:01:16.941 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+18:02:10.126 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+18:02:21.949 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+18:02:21.950 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+18:02:22.730 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+18:02:26.983 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+18:04:32.833 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+18:04:45.345 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+18:04:45.346 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+18:04:46.062 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+18:04:46.452 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+18:08:30.596 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+18:08:33.344 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+18:08:33.344 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+18:08:33.554 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+18:09:06.212 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+18:09:10.486 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+18:09:10.487 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+18:09:10.675 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+18:09:14.856 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+18:25:31.324 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+18:25:35.684 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+18:25:35.950 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+18:25:35.951 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+18:25:36.241 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+18:25:38.765 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+18:25:42.595 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+18:25:42.596 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+18:25:42.748 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+18:25:46.906 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+18:26:18.136 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+18:26:31.188 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+18:26:31.189 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+18:26:31.906 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+18:26:36.078 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+18:29:13.588 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+18:29:19.512 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+18:29:19.513 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+18:29:20.185 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+18:35:12.008 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+18:35:36.992 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+18:35:36.993 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+18:35:37.288 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+18:35:41.479 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+18:37:57.840 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+18:38:00.810 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+18:38:00.811 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+18:38:01.867 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+18:38:02.213 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+18:38:56.809 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+18:38:59.306 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+18:38:59.306 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+18:38:59.751 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+18:42:22.645 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+18:42:25.321 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+18:42:25.322 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+18:42:25.543 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+18:42:40.696 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+18:42:43.686 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+18:42:43.687 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+18:42:47.878 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+18:44:24.784 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+18:44:27.683 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+18:44:27.684 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+18:44:28.490 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+18:44:28.661 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+19:53:41.273 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+19:53:44.093 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+19:53:44.094 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+19:53:44.378 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+19:56:19.252 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+19:56:23.954 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+19:56:23.954 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+19:56:24.202 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+19:56:42.880 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+19:56:47.512 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+19:56:47.512 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+19:56:47.824 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+19:56:49.417 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+19:56:53.652 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+19:56:53.652 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+19:56:53.795 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+19:56:57.949 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+19:58:59.000 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+19:59:00.511 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+19:59:00.512 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+19:59:01.523 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+19:59:03.348 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+19:59:06.572 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+19:59:15.082 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+19:59:15.082 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+19:59:15.284 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+19:59:19.493 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+20:00:15.066 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+20:00:17.608 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+20:00:17.609 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+20:00:17.892 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+20:00:19.285 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+20:00:24.402 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+20:00:24.402 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+20:00:24.526 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+20:00:28.725 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+20:02:10.093 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+20:02:14.235 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+20:02:14.236 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+20:02:14.800 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+20:02:16.680 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+20:02:22.540 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+20:02:22.540 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+20:02:26.726 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+20:03:22.644 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+20:03:25.819 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+20:03:25.820 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+20:03:26.017 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+20:03:27.226 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+20:03:31.333 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+20:03:31.333 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+20:03:31.483 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+20:03:35.643 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+20:04:25.643 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+20:04:29.194 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+20:04:29.194 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+20:04:29.469 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+20:04:31.344 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+20:04:35.552 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+20:04:35.552 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+20:04:35.703 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+20:04:39.841 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+20:06:11.225 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+20:06:33.438 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+20:06:33.438 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+20:06:34.495 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+20:06:38.686 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+20:06:40.094 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+20:06:47.002 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+20:06:47.002 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+20:06:51.199 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+20:08:07.614 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+20:08:33.369 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+20:08:33.371 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+20:08:34.556 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+20:08:38.699 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+20:08:40.053 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+20:08:46.086 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+20:08:46.086 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+20:08:50.224 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+20:09:32.990 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+20:09:35.649 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+20:09:35.650 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+20:09:35.964 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+20:09:37.016 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+20:09:41.489 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+20:09:41.490 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+20:09:41.648 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+20:09:45.844 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+20:10:18.642 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+20:10:24.550 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+20:10:24.550 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+20:10:24.694 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+20:10:26.444 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+20:10:35.520 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+20:10:35.520 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+20:10:39.641 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+20:11:28.267 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+20:11:51.008 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+20:11:51.009 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+20:11:51.940 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+20:11:56.084 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+20:11:57.175 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+20:12:02.148 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+20:12:02.148 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+20:12:02.281 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+20:12:02.482 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+20:12:46.837 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+20:12:53.742 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+20:12:53.742 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+20:12:53.899 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+20:12:55.375 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+20:13:02.779 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+20:13:02.779 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+20:13:06.922 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+20:15:16.049 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+20:15:22.403 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+20:15:22.404 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+20:15:22.856 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+20:15:24.307 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+20:15:32.358 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+20:15:32.358 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+20:15:36.517 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+20:19:49.973 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+20:20:12.652 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+20:20:12.653 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+20:20:13.650 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+20:20:17.804 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+20:20:19.276 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+20:20:25.891 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+20:20:25.892 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+20:20:30.097 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+20:20:54.102 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+20:20:59.334 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+20:20:59.335 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+20:20:59.549 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+20:21:01.099 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+20:21:09.679 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+20:21:09.680 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+20:21:13.901 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+09:43:19.507 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+09:43:37.367 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+09:43:37.369 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+09:43:44.207 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+09:43:46.302 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+09:44:00.466 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+09:44:00.466 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+09:44:08.871 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+09:48:28.013 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+09:48:57.366 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+09:48:57.366 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+09:48:58.401 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+09:49:06.301 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+09:49:08.376 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+09:49:16.356 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+09:49:16.356 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+09:49:22.558 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+09:51:04.942 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+09:51:11.399 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+09:51:11.399 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+09:51:11.569 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+09:51:12.349 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+09:51:13.702 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+09:51:21.484 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+09:51:21.484 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+09:51:22.046 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+09:51:26.193 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+09:52:42.211 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+09:53:27.171 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+09:53:27.172 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+09:53:27.722 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+09:53:28.295 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+09:53:29.816 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+09:54:10.082 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+09:54:10.082 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+09:54:10.585 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+09:54:14.867 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+09:54:16.162 [AsyncHttpClient-1-1] WARN  io.netty.util.HashedWheelTimer - An exception was thrown by TimerTask.
+java.lang.IllegalStateException: cannot be started once stopped
+	at io.netty.util.HashedWheelTimer.start(HashedWheelTimer.java:341) ~[netty-common-4.1.58.Final.jar:4.1.58.Final]
+	at io.netty.util.HashedWheelTimer.newTimeout(HashedWheelTimer.java:416) ~[netty-common-4.1.58.Final.jar:4.1.58.Final]
+	at org.asynchttpclient.netty.channel.DefaultChannelPool.scheduleNewIdleChannelDetector(DefaultChannelPool.java:95) ~[async-http-client-2.12.2.jar:?]
+	at org.asynchttpclient.netty.channel.DefaultChannelPool.access$900(DefaultChannelPool.java:43) ~[async-http-client-2.12.2.jar:?]
+	at org.asynchttpclient.netty.channel.DefaultChannelPool$IdleChannelDetector.run(DefaultChannelPool.java:378) ~[async-http-client-2.12.2.jar:?]
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:672) [netty-common-4.1.58.Final.jar:4.1.58.Final]
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:747) [netty-common-4.1.58.Final.jar:4.1.58.Final]
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:472) [netty-common-4.1.58.Final.jar:4.1.58.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.58.Final.jar:4.1.58.Final]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+09:56:23.910 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+09:56:30.775 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+09:56:30.813 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+09:56:30.970 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+09:56:31.264 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+09:56:32.954 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+09:56:40.437 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+09:56:40.437 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+09:56:40.579 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+09:56:44.768 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+09:57:27.306 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+09:59:52.101 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+09:59:52.101 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+09:59:52.275 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+09:59:56.423 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+09:59:57.680 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+10:00:54.837 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+10:00:54.838 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+10:00:54.971 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+10:00:59.093 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+10:02:27.424 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+10:06:30.352 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+10:06:36.087 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+10:06:36.088 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+10:06:36.263 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+10:06:37.788 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+10:06:44.860 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+10:06:44.860 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+10:06:49.069 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+10:08:19.022 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+10:08:24.755 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+10:08:24.755 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+10:08:24.969 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+10:08:26.306 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+10:08:33.836 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+10:08:33.836 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+10:08:38.050 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+10:10:07.924 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+10:10:13.567 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+10:10:13.568 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+10:10:13.842 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+10:10:15.259 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+10:10:22.422 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+10:10:22.422 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+10:10:26.625 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+10:10:42.980 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+10:10:48.470 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+10:10:48.471 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+10:10:48.701 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+10:10:50.304 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+10:10:57.316 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+10:10:57.317 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+10:11:01.524 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:04:02.685 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:04:04.853 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on bing page
+21:04:10.118 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+21:04:10.118 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:04:10.338 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:04:12.075 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:04:14.896 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on google page
+21:04:19.883 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+21:04:19.886 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:04:24.329 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:10:45.962 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:10:47.355 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on bing page
+21:10:51.023 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+21:10:51.740 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+21:10:51.762 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search result by index
+21:10:52.078 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+21:10:52.080 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+21:10:52.081 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:10:52.373 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:10:54.572 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:10:56.923 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on google page
+21:11:02.879 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+21:11:03.146 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+21:11:03.166 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search result by index
+21:11:03.382 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+21:11:03.383 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+21:11:03.384 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:11:07.605 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:13:29.059 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:13:30.646 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on bing page
+21:13:32.497 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+21:13:52.778 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+21:13:52.779 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+21:13:53.819 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:13:57.992 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:13:59.505 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:14:01.779 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on google page
+21:14:05.530 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+21:14:05.695 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+21:14:05.711 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search result by index
+21:14:05.934 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+21:14:05.936 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+21:14:05.936 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:14:10.090 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:17:24.059 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:17:25.841 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on bing page
+21:17:29.256 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+21:17:29.873 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+21:17:29.891 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search result by index
+21:17:30.151 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+21:17:30.153 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+21:17:30.154 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:17:30.384 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:17:31.926 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:17:33.922 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on google page
+21:17:38.627 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+21:17:38.843 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+21:17:38.856 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search result by index
+21:17:39.071 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+21:17:39.072 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+21:17:39.072 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:17:43.224 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:19:29.399 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:19:30.801 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on bing page
+21:19:32.603 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+21:19:53.020 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+21:19:53.021 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+21:19:54.082 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:19:58.299 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:20:00.090 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:20:02.554 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on google page
+21:20:04.509 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+21:20:04.510 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+21:20:04.656 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:20:08.842 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:20:55.693 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:20:57.518 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on bing page
+21:21:00.971 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+21:21:01.519 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+21:21:01.540 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search result by index
+21:21:01.743 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+21:21:01.775 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+21:21:01.776 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:21:02.024 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:21:03.696 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:21:06.020 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on google page
+21:21:07.955 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+21:21:07.955 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+21:21:08.111 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:21:08.534 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:21:43.447 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:21:44.820 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on bing page
+21:21:46.187 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+21:22:17.648 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+21:22:17.649 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+21:23:12.569 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:23:13.617 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on bing page
+21:23:15.145 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+21:23:35.658 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+21:23:35.659 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+21:23:36.777 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:23:40.988 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:23:42.255 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:23:44.436 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on google page
+21:23:46.349 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+21:23:46.349 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+21:23:46.483 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:23:50.653 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:24:18.708 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:24:19.811 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on bing page
+21:24:23.544 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+21:24:24.064 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+21:24:24.093 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search result by index
+21:24:24.296 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+21:24:24.298 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+21:24:24.299 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:24:24.576 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:24:26.328 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:24:28.763 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on google page
+21:24:33.940 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+21:24:34.110 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+21:24:34.126 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search result by index
+21:24:34.345 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+21:24:34.347 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+21:24:34.347 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:24:38.493 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:26:15.096 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:26:16.059 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on bing page
+21:26:17.547 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+21:26:37.691 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+21:26:37.692 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+21:26:38.712 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:26:42.912 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:26:44.632 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:26:46.927 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on google page
+21:26:48.678 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: FAILED
+21:26:48.678 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario failed: To test google search functionality
+21:26:48.804 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:26:52.992 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:32:07.504 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:32:08.905 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on bing page
+21:32:12.454 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+21:32:12.962 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+21:32:12.982 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search result by index
+21:32:13.179 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+21:32:13.182 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+21:32:13.183 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:32:13.363 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:32:14.769 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:32:17.120 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on google page
+21:32:22.111 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+21:32:22.299 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+21:32:22.315 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search result by index
+21:32:22.530 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+21:32:22.532 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+21:32:22.532 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:32:26.689 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:32:52.691 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:32:53.932 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on bing page
+21:32:55.686 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+21:34:46.619 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:34:47.774 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on bing page
+21:34:51.290 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+21:34:51.813 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+21:34:51.833 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search result by index
+21:34:52.062 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+21:34:52.065 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+21:34:52.065 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:34:52.266 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:34:53.729 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:34:55.817 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on google page
+21:35:00.866 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+21:35:01.040 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+21:35:01.054 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search result by index
+21:35:01.268 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+21:35:01.269 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+21:35:01.269 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:35:05.420 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:35:27.090 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:35:28.542 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on bing page
+21:35:32.184 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+21:35:32.760 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+21:35:32.778 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search result by index
+21:35:32.978 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+21:35:32.980 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+21:35:32.981 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:35:33.190 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:35:34.943 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:35:36.892 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on google page
+21:35:41.625 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+21:35:42.128 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+21:35:42.156 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search result by index
+21:35:42.564 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+21:35:42.566 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+21:35:42.566 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:35:46.709 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:41:18.610 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:41:19.438 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on bing page
+21:41:23.820 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+21:41:24.359 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+21:41:24.386 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search result by index
+21:41:24.623 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+21:41:24.626 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+21:41:24.626 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:41:25.186 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:41:26.973 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:41:28.760 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on google page
+21:41:33.798 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+21:41:33.974 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+21:41:33.988 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search result by index
+21:41:34.192 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+21:41:34.193 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+21:41:34.193 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:41:38.332 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:42:48.297 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:42:49.354 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on bing page
+21:42:50.750 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+21:44:37.672 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:44:38.399 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on bing page
+21:44:42.156 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+21:44:42.766 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+21:44:42.789 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search result by index
+21:44:43.016 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+21:44:43.019 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+21:44:43.019 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:44:43.124 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
+21:44:44.703 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Driver initialized and test context is set
+21:44:46.711 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User is on google page
+21:44:51.980 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - User click search button
+21:44:52.161 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search results present
+21:44:52.176 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate search result by index
+21:44:52.389 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Validate all search results
+21:44:52.391 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Scenario execution status: PASSED
+21:44:52.391 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Before closing the browser
+21:44:56.555 [main] INFO  com.virtusa.demo.stepDefinitions.GoogleSearchStepDef - Browser closed
